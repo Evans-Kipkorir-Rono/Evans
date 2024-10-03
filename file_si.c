@@ -1,4 +1,4 @@
-//program to print rules govern while studying in the library
+//program to calculate the simple interest 
 /*Author:Evans Kipkorir
 Date:24/09/2024
 Registration number:CT101/G/22634/24
